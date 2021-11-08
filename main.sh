@@ -49,6 +49,7 @@ pkg upgrade -y
 proot-distro install debian
 
 #add to startup
+wget https://raw.githubusercontent.com/Horapusaa/Debian-kali/main/root.txt
 cat "root.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
 
 #login to Debian
