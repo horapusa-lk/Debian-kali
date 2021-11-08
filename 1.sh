@@ -24,6 +24,6 @@ apt-get install kali-linux-core -y
 clear
 figlet Installed! | lolcat
 echo
-echo -e $GR "T-KALI v 1.0"
+echo -e $GR "Termux-KALI v 1.0"
 
 exit
