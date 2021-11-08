@@ -5,6 +5,10 @@ apt update -y
 apt upgrade -y
 
 #install req
+
+pkg install ruby -y
+pkg install figlet -y
+gem install lolcat
 apt-get install git -y
 apt-get install wget -y
 apt-get install net-tools -y 
