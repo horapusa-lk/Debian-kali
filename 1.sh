@@ -19,11 +19,11 @@ echo "deb-src http://http.kali.org/kali kali-rolling main non-free contrib" | su
 wget -q -O - https://archive.kali.org/archive-key.asc | apt-key add
 apt-get update && apt-cache search kali-linux
 apt-get install kali-linux-core -y
+
+#finished
+clear
+figlet Installed! | lolcat
+echo
+echo -e $GR "T-KALI v 1.0"
+
 exit
-
-
-
-
-
-
-
