@@ -42,7 +42,7 @@ pkg upgrade -y
 
 
 #install Debain
-proot-distro install ubuntu
+proot-distro install debian
 
 #add to startup
 cat "root.txt" >>/data/data/com.termux/files/usr/etc/bash.bashrc
