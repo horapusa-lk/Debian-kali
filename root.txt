@@ -1,0 +1,16 @@
+echo
+echo -e $RD"[#] Select your login type :"
+echo
+echo -e "[#] Kali Linux"
+echo -e "[#] Non-Root"
+echo
+echo -e "[#] Enter 1 for Kali Linux login.. "
+echo -e "[#] Press the Enter key for normal login..."
+read root
+echo
+if [ $root -eq 1 ]
+then
+	proot-distro login debian
+else
+        clear
+fi
