@@ -1,4 +1,4 @@
-# Debain-kali
+# Debian-kali
 
 - A simple tool for obtaining root access in termux.
 - Developed and Maintained by <a href=https://t.me/Zycho_66>Zycho-Dev</a>
