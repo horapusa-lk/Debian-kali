@@ -30,7 +30,7 @@ apt install wget -y
 apt install git -y
 pkg install ruby -y
 pkg install figlet -y
-gem install lolcat -y
+gem install lolcat
 pkg install proot-distro -y
 
 
