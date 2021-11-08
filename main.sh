@@ -11,14 +11,6 @@ WH='\e[1;37m'
 
 clear
 
-#install req
-apt install wget -y
-apt install git -y
-pkg install ruby -y
-pkg install figlet -y
-gem install lolcat -y
-pkg install proot-distro -y
-
 clear
 figlet Kali Linux | lolcat
 echo
@@ -32,6 +24,16 @@ echo -e $GR "Press Enter to continue.."
 read
 clear
 echo -e $YL "[#] Creating the platform for the rooting process"
+
+#install req
+apt install wget -y
+apt install git -y
+pkg install ruby -y
+pkg install figlet -y
+gem install lolcat -y
+pkg install proot-distro -y
+
+
 
 
 #update
