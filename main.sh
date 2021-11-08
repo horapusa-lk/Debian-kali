@@ -10,6 +10,9 @@ GY='\e[1;30m'
 WH='\e[1;37m'
 
 clear
+pkg install ruby -y
+pkg install figlet -y
+gem install lolcat
 
 clear
 figlet Kali Linux | lolcat
