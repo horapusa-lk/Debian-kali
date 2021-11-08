@@ -10,6 +10,7 @@ GY='\e[1;30m'
 WH='\e[1;37m'
 
 clear
+pkg update -y
 pkg install ruby -y
 pkg install figlet -y
 gem install lolcat
