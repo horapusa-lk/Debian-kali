@@ -1,7 +1,7 @@
 # Debian-kali
 
 - A simple tool for obtaining root access in termux.
-- Developed and Maintained by <a href=https://t.me/Zycho_66>Zycho-Dev</a>
+- Developed and Maintained by <a href=https://t.me/hora_pusa>Hora-Pusa-Dev</a>
 - Version 1.0 relased with Kali Linux OS for creating fake root.
 
 ![banner](https://telegra.ph/file/5a9850bd8a063f597c626.jpg)
