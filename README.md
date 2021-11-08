@@ -1,7 +1,9 @@
 # Debain-kali
 
-```bash
 
-git clone https://github.com/Zycho-Dev-66/ZRoot && cd ZRoot && chmod +x * && bash ZRoot.sh
+Install Using Follwing Command!
+
+```bash
+wget https://raw.githubusercontent.com/pakayaaaa/Debain-kali/main/install.sh ; bash install.sh
 
 ```
