@@ -4,6 +4,8 @@
 - Developed and Maintained by <a href=https://t.me/Zycho_66>Zycho-Dev</a>
 - Version 1.0 relased with Kali Linux OS for creating fake root.
 
+![banner](https://telegra.ph/file/5c7ce0559753ec2e6fe8c.png)
+
 
 Install Debian Using Following Command!
 ```bash
